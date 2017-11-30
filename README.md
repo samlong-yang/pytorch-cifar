@@ -20,6 +20,7 @@ Cons:
 | [ResNet50](https://arxiv.org/abs/1512.03385)          | 93.62%      |
 | [ResNet101](https://arxiv.org/abs/1512.03385)         | 93.75%      |
 | [ResNeXt29(32x4d)](https://arxiv.org/abs/1611.05431)  | 94.73%      |
+| [ATTNet18]                                            | 94.75%      |
 | [ResNeXt29(2x64d)](https://arxiv.org/abs/1611.05431)  | 94.82%      |
 | [DenseNet121](https://arxiv.org/abs/1608.06993)       | 95.04%      |
 | [PreActResNet18](https://arxiv.org/abs/1603.05027)    | 95.11%      |
